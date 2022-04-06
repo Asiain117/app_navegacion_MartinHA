@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'main.dart';
 
-
 class SegundaRuta extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
